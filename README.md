@@ -1,6 +1,6 @@
 # DW Data: Follow the money: What are the EU's migration policy goals?
 
-You can read the article [here]()
+You can read the article [here](http://p.dw.com/p/2sh7Q)
 
 
 ## Data sources analysed:
