@@ -11,3 +11,6 @@ You can read the article [here](http://p.dw.com/p/2sh7Q)
 
 
 For details on the analysis, please see respective jupyter notebooks above.
+
+## Data table
+If you would like to explore the data yourself, you can either access the above data file, or look at the EU Emergency Trustfund data in [this interactive data table](https://gcgruen.github.io/datatable-EU-trustfund-projects/)
